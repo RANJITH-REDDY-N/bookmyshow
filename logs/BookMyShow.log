@@ -1,23 +1,23 @@
-2025-01-21T18:20:00.249-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Starting BookMyShowApplication using Java 21 with PID 22484 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
-2025-01-21T18:20:00.256-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : No active profile set, falling back to 1 default profile: "default"
-2025-01-21T18:20:00.279-05:00  INFO 22484 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2025-01-21T18:20:00.280-05:00  INFO 22484 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2025-01-21T18:20:00.625-05:00  INFO 22484 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-01-21T18:20:00.655-05:00  INFO 22484 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 10 JPA repository interfaces.
-2025-01-21T18:20:00.918-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
-2025-01-21T18:20:00.925-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-01-21T18:20:00.925-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
-2025-01-21T18:20:00.943-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
-2025-01-21T18:20:00.943-05:00  INFO 22484 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 663 ms
-2025-01-21T18:20:01.003-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-01-21T18:20:01.035-05:00  INFO 22484 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
-2025-01-21T18:20:01.049-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-01-21T18:20:01.158-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-01-21T18:20:01.173-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-01-21T18:20:01.935-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b27bcce
-2025-01-21T18:20:01.938-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-01-21T18:20:02.081-05:00  WARN 22484 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-01-21T18:20:02.088-05:00  INFO 22484 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+2025-01-22T06:52:13.969-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Starting BookMyShowApplication using Java 21 with PID 25037 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T06:52:13.975-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T06:52:13.994-05:00  INFO 25037 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-01-22T06:52:13.994-05:00  INFO 25037 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-01-22T06:52:14.380-05:00  INFO 25037 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T06:52:14.411-05:00  INFO 25037 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 27 ms. Found 10 JPA repository interfaces.
+2025-01-22T06:52:14.679-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T06:52:14.686-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T06:52:14.686-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T06:52:14.706-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T06:52:14.706-05:00  INFO 25037 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 711 ms
+2025-01-22T06:52:14.764-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T06:52:14.796-05:00  INFO 25037 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-22T06:52:14.810-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T06:52:14.929-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T06:52:14.944-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-01-22T06:52:15.775-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6eb73fb8
+2025-01-22T06:52:15.777-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-01-22T06:52:15.887-05:00  WARN 25037 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T06:52:15.896-05:00  INFO 25037 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
 	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
 	Database driver: undefined/unknown
 	Database version: 8.0.35
@@ -25,326 +25,19 @@
 	Isolation level: undefined/unknown
 	Minimum pool size: undefined/unknown
 	Maximum pool size: undefined/unknown
-2025-01-21T18:20:02.526-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-01-21T18:20:02.692-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table city (
-        id integer not null,
-        name varchar(255) not null,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:04.616-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table city_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:04.780-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into city_seq values ( 1 )
-2025-01-21T18:20:05.731-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table movie (
-        id integer not null,
-        cast varchar(255),
-        director varchar(255),
-        duration_in_minutes integer not null,
-        genre enum ('ACTION','COMEDY','DRAMA','HORROR','ROMANCE','SCI_FI'),
-        name varchar(255) not null,
-        release_date datetime(6),
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:05.967-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table movie_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:06.088-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into movie_seq values ( 1 )
-2025-01-21T18:20:06.194-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table payment (
-        id integer not null,
-        mode enum ('CREDIT_CARD','DEBIT_CARD','NET_BANKING','UPI'),
-        status enum ('COMPLETED','FAILED','IN_PROGRESS'),
-        timestamp datetime(6) not null,
-        transaction_id varchar(255) not null,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:06.398-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table payment_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:06.494-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into payment_seq values ( 1 )
-2025-01-21T18:20:06.569-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table screen (
-        id integer not null,
-        name varchar(255) not null,
-        theatre_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:06.665-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table screen_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:06.764-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into screen_seq values ( 1 )
-2025-01-21T18:20:06.847-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table seat (
-        id integer not null,
-        name varchar(255) not null,
-        seat_type enum ('GOLD','PLATINUM','RECLINER','SILVER'),
-        status enum ('AVAILABLE','BLOCKED','BOOKED'),
-        screen_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:07.016-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table seat_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:07.126-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into seat_seq values ( 1 )
-2025-01-21T18:20:07.219-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table show_seat_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:07.345-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into show_seat_seq values ( 1 )
-2025-01-21T18:20:07.422-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table shows (
-        id integer not null,
-        end_time datetime(6) not null,
-        start_time datetime(6) not null,
-        movie_id integer,
-        screen_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:07.553-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table shows_features (
-        shows_id integer not null,
-        features tinyint check (features between 0 and 3)
-    ) engine=InnoDB
-2025-01-21T18:20:07.661-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table shows_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:07.759-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into shows_seq values ( 1 )
-2025-01-21T18:20:07.843-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table show_seat (
-        id integer not null,
-        price float(53) not null,
-        status enum ('AVAILABLE','BLOCKED','BOOKED'),
-        seat_id integer,
-        show_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:07.955-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table theatre (
-        id integer not null,
-        address varchar(255),
-        name varchar(255) not null,
-        city_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:08.054-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table theatre_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:08.156-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into theatre_seq values ( 1 )
-2025-01-21T18:20:08.230-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table ticket (
-        id integer not null,
-        time_of_booking datetime(6),
-        show_id integer,
-        user_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:08.329-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table ticket_seats (
-        ticket_id integer not null,
-        seats_id integer not null
-    ) engine=InnoDB
-2025-01-21T18:20:08.423-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table ticket_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:08.517-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into ticket_seq values ( 1 )
-2025-01-21T18:20:08.624-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table user (
-        id integer not null,
-        email varchar(255) not null,
-        name varchar(255) not null,
-        password varchar(255) not null,
-        phone_number varchar(255),
-        role enum ('SUPER_ADMIN','THEATRE_ADMIN','USER'),
-        theatre_id integer,
-        primary key (id)
-    ) engine=InnoDB
-2025-01-21T18:20:08.730-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    create table user_seq (
-        next_val bigint
-    ) engine=InnoDB
-2025-01-21T18:20:08.865-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    insert into user_seq values ( 1 )
-2025-01-21T18:20:08.977-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket_seats 
-       drop index UK7a0j0unfryrjuqx00jc9fy8p7
-2025-01-21T18:20:09.791-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket_seats 
-       add constraint UK7a0j0unfryrjuqx00jc9fy8p7 unique (seats_id)
-2025-01-21T18:20:10.476-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table user 
-       drop index UKob8kqyqqgmefl0aco34akdtpe
-2025-01-21T18:20:10.701-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table user 
-       add constraint UKob8kqyqqgmefl0aco34akdtpe unique (email)
-2025-01-21T18:20:10.807-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table screen 
-       add constraint FKilngvwq9jgk3is184yjhkx9k 
-       foreign key (theatre_id) 
-       references theatre (id)
-2025-01-21T18:20:11.053-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table seat 
-       add constraint FKa20kk7r8mh61c0khpxmx7uqcp 
-       foreign key (screen_id) 
-       references screen (id)
-2025-01-21T18:20:11.208-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table shows 
-       add constraint FK4qskmne5ijrtsqlxym3c70nha 
-       foreign key (movie_id) 
-       references movie (id)
-2025-01-21T18:20:11.341-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table shows 
-       add constraint FKqy9162jhrejk4hqejebdp6j91 
-       foreign key (screen_id) 
-       references screen (id)
-2025-01-21T18:20:11.523-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table shows_features 
-       add constraint FKfx936hm8jtyqf7sh81e1f261k 
-       foreign key (shows_id) 
-       references shows (id)
-2025-01-21T18:20:11.680-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table show_seat 
-       add constraint FK6i74j78n2rm115651mji6o8yj 
-       foreign key (seat_id) 
-       references seat (id)
-2025-01-21T18:20:11.813-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table show_seat 
-       add constraint FKl8h7odotr49cuig9dy7t6cfj0 
-       foreign key (show_id) 
-       references shows (id)
-2025-01-21T18:20:11.959-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table theatre 
-       add constraint FKqfrea71qlwgmpbyrmldr5iln3 
-       foreign key (city_id) 
-       references city (id)
-2025-01-21T18:20:13.181-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket 
-       add constraint FKoqx6x1gm4qrcl0li6c8j9k0d7 
-       foreign key (show_id) 
-       references shows (id)
-2025-01-21T18:20:13.395-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket 
-       add constraint FKdvt57mcco3ogsosi97odw563o 
-       foreign key (user_id) 
-       references user (id)
-2025-01-21T18:20:13.612-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket_seats 
-       add constraint FKbk06gvc4iih25uvt94suvg0av 
-       foreign key (seats_id) 
-       references seat (id)
-2025-01-21T18:20:13.728-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table ticket_seats 
-       add constraint FK44gchftco6god800pnyfl3f06 
-       foreign key (ticket_id) 
-       references ticket (id)
-2025-01-21T18:20:13.861-05:00 DEBUG 22484 --- [BookMyShow] [restartedMain] org.hibernate.SQL                        : 
-    alter table user 
-       add constraint FK1rja3ufahddgtusgtsqbmucrg 
-       foreign key (theatre_id) 
-       references theatre (id)
-2025-01-21T18:20:14.755-05:00  INFO 22484 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T18:20:14.935-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
-2025-01-21T18:20:15.316-05:00  WARN 22484 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-01-21T18:20:15.333-05:00  INFO 22484 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
-2025-01-21T18:20:15.594-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2025-01-21T18:20:15.610-05:00  INFO 22484 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
-2025-01-21T18:20:15.616-05:00  INFO 22484 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Started BookMyShowApplication in 15.593 seconds (process running for 15.848)
-2025-01-21T18:20:41.396-05:00  INFO 22484 --- [BookMyShow] [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-01-21T18:20:41.398-05:00  INFO 22484 --- [BookMyShow] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2025-01-21T18:20:41.404-05:00  INFO 22484 --- [BookMyShow] [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
-2025-01-21T18:20:41.744-05:00  INFO 22484 --- [BookMyShow] [http-nio-8080-exec-2] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 99 ms
-2025-01-21T18:21:10.870-05:00  INFO 22484 --- [BookMyShow] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-01-21T18:21:10.877-05:00  INFO 22484 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-01-21T18:21:10.882-05:00  INFO 22484 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T18:21:10.887-05:00  INFO 22484 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-01-21T18:21:11.251-05:00  INFO 22484 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-01-21T18:50:03.353-05:00  INFO 23211 --- [BookMyShow] [main] c.bookmyshow.BookMyShowApplicationTests  : Starting BookMyShowApplicationTests using Java 23.0.1 with PID 23211 (started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
-2025-01-21T18:50:03.354-05:00  INFO 23211 --- [BookMyShow] [main] c.bookmyshow.BookMyShowApplicationTests  : No active profile set, falling back to 1 default profile: "default"
-2025-01-21T18:50:03.685-05:00  INFO 23211 --- [BookMyShow] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-01-21T18:50:03.716-05:00  INFO 23211 --- [BookMyShow] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 26 ms. Found 10 JPA repository interfaces.
-2025-01-21T18:50:03.959-05:00  INFO 23211 --- [BookMyShow] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-01-21T18:50:03.989-05:00  INFO 23211 --- [BookMyShow] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
-2025-01-21T18:50:04.002-05:00  INFO 23211 --- [BookMyShow] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-01-21T18:50:04.116-05:00  INFO 23211 --- [BookMyShow] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-01-21T18:50:04.128-05:00  INFO 23211 --- [BookMyShow] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-01-21T18:50:05.011-05:00  INFO 23211 --- [BookMyShow] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f122cdc
-2025-01-21T18:50:05.015-05:00  INFO 23211 --- [BookMyShow] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-01-21T18:50:05.155-05:00  WARN 23211 --- [BookMyShow] [main] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-01-21T18:50:05.163-05:00  INFO 23211 --- [BookMyShow] [main] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 8.0.35
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-01-21T18:50:05.618-05:00  INFO 23211 --- [BookMyShow] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-01-21T18:50:07.288-05:00  INFO 23211 --- [BookMyShow] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T18:50:07.454-05:00  INFO 23211 --- [BookMyShow] [main] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
-2025-01-21T18:50:07.871-05:00  WARN 23211 --- [BookMyShow] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-01-21T18:50:07.887-05:00  INFO 23211 --- [BookMyShow] [main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
-2025-01-21T18:50:08.382-05:00  INFO 23211 --- [BookMyShow] [main] c.bookmyshow.BookMyShowApplicationTests  : Started BookMyShowApplicationTests in 5.167 seconds (process running for 5.633)
-2025-01-21T18:50:08.750-05:00  INFO 23211 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T18:50:08.751-05:00  INFO 23211 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-01-21T18:50:09.166-05:00  INFO 23211 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2025-01-21T18:50:41.278-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Starting BookMyShowApplication using Java 21 with PID 23260 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
-2025-01-21T18:50:41.279-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : No active profile set, falling back to 1 default profile: "default"
-2025-01-21T18:50:41.301-05:00  INFO 23260 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2025-01-21T18:50:41.301-05:00  INFO 23260 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2025-01-21T18:50:41.629-05:00  INFO 23260 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2025-01-21T18:50:41.664-05:00  INFO 23260 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 30 ms. Found 10 JPA repository interfaces.
-2025-01-21T18:50:41.931-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
-2025-01-21T18:50:41.938-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2025-01-21T18:50:41.938-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
-2025-01-21T18:50:41.957-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
-2025-01-21T18:50:41.957-05:00  INFO 23260 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 656 ms
-2025-01-21T18:50:42.017-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2025-01-21T18:50:42.045-05:00  INFO 23260 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
-2025-01-21T18:50:42.062-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2025-01-21T18:50:42.172-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2025-01-21T18:50:42.186-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2025-01-21T18:50:42.863-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d9ba0d7
-2025-01-21T18:50:42.868-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2025-01-21T18:50:42.982-05:00  WARN 23260 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
-2025-01-21T18:50:42.989-05:00  INFO 23260 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
-	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
-	Database driver: undefined/unknown
-	Database version: 8.0.35
-	Autocommit mode: undefined/unknown
-	Isolation level: undefined/unknown
-	Minimum pool size: undefined/unknown
-	Maximum pool size: undefined/unknown
-2025-01-21T18:50:43.450-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2025-01-21T18:50:44.955-05:00  INFO 23260 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T18:50:45.120-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
-2025-01-21T18:50:45.484-05:00  WARN 23260 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2025-01-21T18:50:45.497-05:00  INFO 23260 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
-2025-01-21T18:50:45.736-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2025-01-21T18:50:45.751-05:00  INFO 23260 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
-2025-01-21T18:50:45.757-05:00  INFO 23260 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Started BookMyShowApplication in 4.71 seconds (process running for 4.946)
-2025-01-21T18:50:54.281-05:00  INFO 23260 --- [BookMyShow] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2025-01-21T18:50:54.282-05:00  INFO 23260 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2025-01-21T18:50:54.283-05:00  INFO 23260 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
-2025-01-21T18:50:54.634-05:00  INFO 23260 --- [BookMyShow] [http-nio-8080-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 123 ms
-2025-01-21T18:51:36.483-05:00 DEBUG 23260 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
+2025-01-22T06:52:16.346-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T06:52:17.901-05:00  INFO 25037 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T06:52:18.096-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-01-22T06:52:18.489-05:00  WARN 25037 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T06:52:18.514-05:00  INFO 25037 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T06:52:18.836-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T06:52:18.852-05:00  INFO 25037 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T06:52:18.858-05:00  INFO 25037 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShowApplication     : Started BookMyShowApplication in 5.095 seconds (process running for 5.392)
+2025-01-22T06:52:49.722-05:00  INFO 25037 --- [BookMyShow] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-22T06:52:49.722-05:00  INFO 25037 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-22T06:52:49.724-05:00  INFO 25037 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-22T06:52:50.016-05:00  INFO 25037 --- [BookMyShow] [http-nio-8080-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 111 ms
+2025-01-22T06:53:21.332-05:00 DEBUG 25037 --- [BookMyShow] [http-nio-8080-exec-10] org.hibernate.SQL                        : 
     select
         u1_0.id,
         u1_0.email,
@@ -357,27 +50,573 @@
         user u1_0 
     where
         u1_0.email=?
-2025-01-21T18:51:36.762-05:00 DEBUG 23260 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
+2025-01-22T06:53:21.416-05:00 ERROR 25037 --- [BookMyShow] [http-nio-8080-exec-10] o.a.c.c.C.[.[.[.[dispatcherServlet]      : Servlet.service() for servlet [dispatcherServlet] in context with path [/bms] threw exception [Request processing failed: java.lang.IllegalArgumentException: Invalid email or password] with root cause
+
+java.lang.IllegalArgumentException: Invalid email or password
+	at com.bookmyshow.services.UserService.lambda$login$0(UserService.java:48) ~[classes/:na]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[na:na]
+	at com.bookmyshow.services.UserService.login(UserService.java:48) ~[classes/:na]
+	at com.bookmyshow.controllers.UserController.login(UserController.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at com.bookmyshow.filters.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:243) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:238) ~[spring-security-config-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-22T06:54:04.234-05:00 DEBUG 25037 --- [BookMyShow] [http-nio-8080-exec-4] org.hibernate.SQL                        : 
+    select
+        u1_0.id,
+        u1_0.email,
+        u1_0.name,
+        u1_0.password,
+        u1_0.phone_number,
+        u1_0.role,
+        u1_0.theatre_id 
+    from
+        user u1_0 
+    where
+        u1_0.email=?
+2025-01-22T06:54:04.447-05:00 ERROR 25037 --- [BookMyShow] [http-nio-8080-exec-4] o.a.c.c.C.[.[.[.[dispatcherServlet]      : Servlet.service() for servlet [dispatcherServlet] in context with path [/bms] threw exception [Request processing failed: java.lang.IllegalArgumentException: Invalid email or password] with root cause
+
+java.lang.IllegalArgumentException: Invalid email or password
+	at com.bookmyshow.services.UserService.login(UserService.java:51) ~[classes/:na]
+	at com.bookmyshow.controllers.UserController.login(UserController.java:24) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:91) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at com.bookmyshow.filters.JwtAuthenticationFilter.doFilterInternal(JwtAuthenticationFilter.java:34) ~[classes/:na]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191) ~[spring-security-web-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:243) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:238) ~[spring-security-config-6.4.2.jar:6.4.2]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-22T06:54:42.039-05:00 DEBUG 25037 --- [BookMyShow] [http-nio-8080-exec-6] org.hibernate.SQL                        : 
+    select
+        u1_0.id,
+        u1_0.email,
+        u1_0.name,
+        u1_0.password,
+        u1_0.phone_number,
+        u1_0.role,
+        u1_0.theatre_id 
+    from
+        user u1_0 
+    where
+        u1_0.email=?
+2025-01-22T06:58:26.743-05:00  INFO 25037 --- [BookMyShow] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-22T06:58:26.751-05:00  INFO 25037 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-01-22T06:58:26.757-05:00  INFO 25037 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T06:58:26.761-05:00  INFO 25037 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-01-22T06:58:26.835-05:00  INFO 25037 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-01-22T07:02:15.066-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Starting BookMyShow using Java 21 with PID 25177 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T07:02:15.067-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T07:02:15.085-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-01-22T07:02:15.085-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-01-22T07:02:15.433-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T07:02:15.463-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 26 ms. Found 10 JPA repository interfaces.
+2025-01-22T07:02:15.720-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T07:02:15.726-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T07:02:15.727-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T07:02:15.746-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T07:02:15.746-05:00  INFO 25177 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 661 ms
+2025-01-22T07:02:15.800-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T07:02:15.830-05:00  INFO 25177 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-22T07:02:15.844-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T07:02:15.959-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T07:02:15.977-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-01-22T07:02:16.746-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@187aa302
+2025-01-22T07:02:16.750-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-01-22T07:02:16.882-05:00  WARN 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T07:02:16.893-05:00  INFO 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.35
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-22T07:02:17.335-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T07:02:18.806-05:00  INFO 25177 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:02:18.990-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-01-22T07:02:19.349-05:00  WARN 25177 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T07:02:19.364-05:00  INFO 25177 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T07:02:19.591-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T07:02:19.606-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T07:02:19.613-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Started BookMyShow in 4.758 seconds (process running for 4.992)
+2025-01-22T07:07:26.535-05:00  INFO 25177 --- [BookMyShow] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 48 class path changes (0 additions, 47 deletions, 1 modification)
+2025-01-22T07:07:26.542-05:00  INFO 25177 --- [BookMyShow] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-22T07:07:26.548-05:00  INFO 25177 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-01-22T07:07:26.554-05:00  INFO 25177 --- [BookMyShow] [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:26.558-05:00  INFO 25177 --- [BookMyShow] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-01-22T07:07:26.629-05:00  INFO 25177 --- [BookMyShow] [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-01-22T07:07:26.699-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Starting BookMyShow using Java 21 with PID 25177 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T07:07:26.699-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T07:07:26.791-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T07:07:26.802-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 10 JPA repository interfaces.
+2025-01-22T07:07:26.863-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T07:07:26.864-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T07:07:26.864-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T07:07:26.874-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T07:07:26.874-05:00  INFO 25177 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 174 ms
+2025-01-22T07:07:26.897-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T07:07:26.898-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T07:07:26.903-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T07:07:26.904-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2025-01-22T07:07:27.494-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@679edf94
+2025-01-22T07:07:27.495-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2025-01-22T07:07:27.532-05:00  WARN 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T07:07:27.533-05:00  INFO 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-2)']
+	Database driver: undefined/unknown
+	Database version: 8.0.35
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-22T07:07:27.634-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T07:07:29.148-05:00  INFO 25177 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:29.232-05:00  WARN 25177 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T07:07:29.235-05:00  INFO 25177 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T07:07:29.290-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T07:07:29.294-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T07:07:29.296-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Started BookMyShow in 2.611 seconds (process running for 314.673)
+2025-01-22T07:07:29.296-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-01-22T07:07:30.717-05:00  INFO 25177 --- [BookMyShow] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 47 class path changes (47 additions, 0 deletions, 0 modifications)
+2025-01-22T07:07:30.720-05:00  INFO 25177 --- [BookMyShow] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-22T07:07:30.723-05:00  INFO 25177 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-01-22T07:07:30.727-05:00  INFO 25177 --- [BookMyShow] [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:30.728-05:00  INFO 25177 --- [BookMyShow] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2025-01-22T07:07:30.802-05:00  INFO 25177 --- [BookMyShow] [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2025-01-22T07:07:30.862-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Starting BookMyShow using Java 21 with PID 25177 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T07:07:30.862-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T07:07:30.919-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T07:07:30.927-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7 ms. Found 10 JPA repository interfaces.
+2025-01-22T07:07:30.960-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T07:07:30.960-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T07:07:30.960-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T07:07:30.966-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T07:07:30.966-05:00  INFO 25177 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 103 ms
+2025-01-22T07:07:30.982-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T07:07:30.983-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T07:07:30.986-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T07:07:30.986-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2025-01-22T07:07:31.402-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-3 - Added connection com.mysql.cj.jdbc.ConnectionImpl@dbb7aad
+2025-01-22T07:07:31.403-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2025-01-22T07:07:31.441-05:00  WARN 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T07:07:31.442-05:00  INFO 25177 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-3)']
+	Database driver: undefined/unknown
+	Database version: 8.0.35
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-22T07:07:31.530-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T07:07:33.011-05:00  INFO 25177 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:33.078-05:00  WARN 25177 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T07:07:33.081-05:00  INFO 25177 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T07:07:33.124-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T07:07:33.129-05:00  INFO 25177 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T07:07:33.130-05:00  INFO 25177 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Started BookMyShow in 2.279 seconds (process running for 318.508)
+2025-01-22T07:07:33.131-05:00  INFO 25177 --- [BookMyShow] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-01-22T07:07:44.902-05:00  INFO 25177 --- [BookMyShow] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-22T07:07:44.903-05:00  INFO 25177 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-01-22T07:07:44.905-05:00  INFO 25177 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:44.905-05:00  INFO 25177 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2025-01-22T07:07:44.975-05:00  INFO 25177 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2025-01-22T07:07:46.042-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Starting BookMyShow using Java 21 with PID 25227 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T07:07:46.043-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T07:07:46.066-05:00  INFO 25227 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-01-22T07:07:46.066-05:00  INFO 25227 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-01-22T07:07:46.386-05:00  INFO 25227 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T07:07:46.415-05:00  INFO 25227 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 10 JPA repository interfaces.
+2025-01-22T07:07:46.697-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T07:07:46.704-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T07:07:46.704-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T07:07:46.723-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T07:07:46.723-05:00  INFO 25227 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 657 ms
+2025-01-22T07:07:46.770-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T07:07:46.790-05:00  INFO 25227 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-22T07:07:46.803-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T07:07:46.886-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T07:07:46.896-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-01-22T07:07:47.474-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2303540a
+2025-01-22T07:07:47.477-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-01-22T07:07:47.589-05:00  WARN 25227 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T07:07:47.598-05:00  INFO 25227 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.35
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-22T07:07:48.021-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T07:07:49.444-05:00  INFO 25227 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:07:49.617-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-01-22T07:07:49.988-05:00  WARN 25227 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T07:07:50.001-05:00  INFO 25227 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T07:07:50.206-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T07:07:50.223-05:00  INFO 25227 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T07:07:50.228-05:00  INFO 25227 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Started BookMyShow in 4.389 seconds (process running for 4.6)
+2025-01-22T07:07:58.392-05:00  INFO 25227 --- [BookMyShow] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-22T07:07:58.392-05:00  INFO 25227 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-22T07:07:58.394-05:00  INFO 25227 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-01-22T07:07:58.735-05:00  INFO 25227 --- [BookMyShow] [http-nio-8080-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 151 ms
+2025-01-22T07:11:45.912-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
     select
         next_val as id_val 
     from
-        user_seq for update
-2025-01-21T18:51:36.795-05:00 DEBUG 23260 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
+        city_seq for update
+2025-01-22T07:11:45.954-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
     update
-        user_seq 
+        city_seq 
     set
         next_val= ? 
     where
         next_val=?
-2025-01-21T18:51:36.921-05:00 DEBUG 23260 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
+2025-01-22T07:11:46.099-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-5] org.hibernate.SQL                        : 
     insert 
     into
-        user
-        (email, name, password, phone_number, role, theatre_id, id) 
+        city
+        (name, id) 
     values
-        (?, ?, ?, ?, ?, ?, ?)
-2025-01-21T19:03:02.264-05:00  INFO 23260 --- [BookMyShow] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
-2025-01-21T19:03:02.272-05:00  INFO 23260 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
-2025-01-21T19:03:02.280-05:00  INFO 23260 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2025-01-21T19:03:02.284-05:00  INFO 23260 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2025-01-21T19:03:04.784-05:00  INFO 23260 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+        (?, ?)
+2025-01-22T07:11:58.713-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-6] org.hibernate.SQL                        : 
+    select
+        next_val as id_val 
+    from
+        city_seq for update
+2025-01-22T07:11:58.751-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-6] org.hibernate.SQL                        : 
+    update
+        city_seq 
+    set
+        next_val= ? 
+    where
+        next_val=?
+2025-01-22T07:11:58.870-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-6] org.hibernate.SQL                        : 
+    insert 
+    into
+        city
+        (name, id) 
+    values
+        (?, ?)
+2025-01-22T07:12:06.329-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-8] org.hibernate.SQL                        : 
+    insert 
+    into
+        city
+        (name, id) 
+    values
+        (?, ?)
+2025-01-22T07:12:14.136-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-7] org.hibernate.SQL                        : 
+    insert 
+    into
+        city
+        (name, id) 
+    values
+        (?, ?)
+2025-01-22T07:12:19.266-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-9] org.hibernate.SQL                        : 
+    insert 
+    into
+        city
+        (name, id) 
+    values
+        (?, ?)
+2025-01-22T07:12:36.411-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-10] org.hibernate.SQL                        : 
+    insert 
+    into
+        city
+        (name, id) 
+    values
+        (?, ?)
+2025-01-22T07:12:46.471-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        c1_0.id,
+        c1_0.name 
+    from
+        city c1_0
+2025-01-22T07:12:46.647-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:12:46.685-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:12:46.721-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:12:46.755-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:12:46.789-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:12:46.825-05:00 DEBUG 25227 --- [BookMyShow] [http-nio-8080-exec-2] org.hibernate.SQL                        : 
+    select
+        t1_0.city_id,
+        t1_0.id,
+        t1_0.address,
+        t1_0.name 
+    from
+        theatre t1_0 
+    where
+        t1_0.city_id=?
+2025-01-22T07:26:52.132-05:00  INFO 25227 --- [BookMyShow] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-22T07:26:52.138-05:00  INFO 25227 --- [BookMyShow] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-01-22T07:26:52.144-05:00  INFO 25227 --- [BookMyShow] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:26:52.148-05:00  INFO 25227 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-01-22T07:26:52.221-05:00  INFO 25227 --- [BookMyShow] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2025-01-22T07:28:08.886-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Starting BookMyShow using Java 21 with PID 25420 (/Users/ranjith/Desktop/Projects/BookMyShow/target/classes started by ranjith in /Users/ranjith/Desktop/Projects/BookMyShow)
+2025-01-22T07:28:08.887-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : No active profile set, falling back to 1 default profile: "default"
+2025-01-22T07:28:08.906-05:00  INFO 25420 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-01-22T07:28:08.907-05:00  INFO 25420 --- [BookMyShow] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-01-22T07:28:09.254-05:00  INFO 25420 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-01-22T07:28:09.286-05:00  INFO 25420 --- [BookMyShow] [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 28 ms. Found 10 JPA repository interfaces.
+2025-01-22T07:28:09.558-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-22T07:28:09.564-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-22T07:28:09.565-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-22T07:28:09.587-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring embedded WebApplicationContext
+2025-01-22T07:28:09.587-05:00  INFO 25420 --- [BookMyShow] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2025-01-22T07:28:09.645-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-01-22T07:28:09.680-05:00  INFO 25420 --- [BookMyShow] [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.4.Final
+2025-01-22T07:28:09.694-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-01-22T07:28:09.801-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-01-22T07:28:09.815-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-01-22T07:28:10.466-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1b855f5e
+2025-01-22T07:28:10.468-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2025-01-22T07:28:10.602-05:00  WARN 25420 --- [BookMyShow] [restartedMain] org.hibernate.orm.deprecation            : HHH90000025: MySQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-01-22T07:28:10.610-05:00  INFO 25420 --- [BookMyShow] [restartedMain] org.hibernate.orm.connections.pooling    : HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.35
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-01-22T07:28:11.058-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-01-22T07:28:12.618-05:00  INFO 25420 --- [BookMyShow] [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-01-22T07:28:12.813-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.s.d.j.r.query.QueryEnhancerFactory     : Hibernate is in classpath; If applicable, HQL parser will be used.
+2025-01-22T07:28:13.168-05:00  WARN 25420 --- [BookMyShow] [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-01-22T07:28:13.183-05:00  INFO 25420 --- [BookMyShow] [restartedMain] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name customUserDetailsService
+2025-01-22T07:28:13.408-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-01-22T07:28:13.423-05:00  INFO 25420 --- [BookMyShow] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/bms'
+2025-01-22T07:28:13.429-05:00  INFO 25420 --- [BookMyShow] [restartedMain] com.bookmyshow.BookMyShow                : Started BookMyShow in 4.75 seconds (process running for 4.982)
+2025-01-22T07:28:21.140-05:00  INFO 25420 --- [BookMyShow] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/bms]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-22T07:28:21.141-05:00  INFO 25420 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-22T07:28:21.142-05:00  INFO 25420 --- [BookMyShow] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-22T07:28:21.523-05:00  INFO 25420 --- [BookMyShow] [http-nio-8080-exec-9] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 187 ms
